@@ -1,0 +1,12 @@
+# Local working files
+~$*
+*.tmp
+
+# Sensitive configuration
+.env
+.env.*
+!.env.example
+
+# OS files
+.DS_Store
+Thumbs.db
